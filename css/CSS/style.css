@@ -1,0 +1,67 @@
+
+
+
+
+h2{
+
+color: red;
+
+
+}
+
+div.para h2{
+
+color: blue;
+
+}
+
+a:link{
+
+    color: blue;
+}
+
+a:visited{
+
+    color: red;
+}
+
+a:hover{
+
+    color: yellowgreen;
+}
+
+a:active{
+
+    color: black;
+}
+
+ul{
+
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    margin-left: 100px;
+    
+
+}
+
+ul li{
+display: inline-block;
+float: left;
+margin-left: 50px;
+
+}
+
+ul li a{
+
+    text-decoration: none;
+    display: block;
+    width: 350px;
+    background: black;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+   
+    
+    
+}

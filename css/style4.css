@@ -1,0 +1,73 @@
+body{
+
+margin: 0;
+padding: 0;
+background-color:bisque;
+
+
+}
+
+div.gallery{
+
+display: block;
+width: 350px;
+float: left;
+border: 1px solid black;
+margin: 10px 10px 10px 10px;
+
+}
+
+div.gallery img{
+
+    width: 100%;
+    height: 300px;
+   
+}
+
+.about{
+    font-size: 30px;
+    text-align:left ;
+}
+
+.book_gallery{
+
+list-style-type: none;
+display: block;
+
+
+}
+.book{
+
+    display: inline-block;
+    width: 175px;
+    border: 2px solid black;
+    margin-left: 100px;
+    cursor: pointer;
+    
+
+  
+
+
+}
+
+.book img{
+
+    width: 100%;
+    
+
+}
+
+div.details {
+
+    text-decoration: none;
+   
+    margin-left: 500px;
+    display: inline-block;
+    width: 550px;
+    
+   
+    
+}
+
+/*registration page*/
+
