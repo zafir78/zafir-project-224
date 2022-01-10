@@ -1,0 +1,42 @@
+/*star rating*/
+.checked {
+  color: orange;
+}
+
+#content-wrapper
+{
+	clear: both;
+	width: 750px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#content { float: left; padding: 20px 0; }
+
+/* Style buttons */
+.dld {
+    background-color: DodgerBlue;
+    border:2px;
+    width: 240px;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 15px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+.hello{
+    float:left;
+    padding-left: 10px;
+    margin-left: 60px;
+
+    /* padding: 10px; */
+    /* margin-right: 10px; */
+}
+  
+  
