@@ -64,3 +64,18 @@ div.details {
 
 /*registration page*/
 
+#description .col-lg-4{
+    max-height: 30rem;
+    padding-bottom: 3rem;
+
+}
+
+.card{
+    transition: transform .2s;
+}
+
+.card:hover{
+
+    transform: scale(1.1); 
+}
+
